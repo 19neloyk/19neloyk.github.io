@@ -100,7 +100,7 @@
 
 
 
-# Thank you for checking me out!
+# **Thank you for checking me out!**
 
 ### thank-you.go
 ```markdown
