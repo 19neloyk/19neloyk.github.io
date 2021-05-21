@@ -45,8 +45,8 @@
 # Smaller Projects 
 
 ## Exercise Tracker
-![Image](https://github.com/19neloyk/ExerciseTracker/blob/master/Screen%20Shot%202020-05-22%20at%201.57.50%20PM.png)
 ### Practice application in React that stores the user's workouts including reps, sets, and a description of each workout.
+![Image](https://raw.githubusercontent.com/19neloyk/ExerciseTracker/master/Screen%20Shot%202020-05-22%20at%201.57.50%20PM.png)
 - Frontend: React, Backend: NodeJS, Database: NeD (stored on a single page)
 - [Public Repo](https://github.com/19neloyk/ExerciseTracker)
 
@@ -56,34 +56,34 @@
 
 ## Distance Conversion
 ### App converts between Meters, Kilometers, Yards, Feet, and Miles
-![Image](https://github.com/19neloyk/DistanceConversion/blob/master/Screen%20Shot%202020-05-25%20at%207.08.37%20AM.png)
+![Image](https://raw.githubusercontent.com/19neloyk/DistanceConversion/master/Screen%20Shot%202020-05-25%20at%207.08.37%20AM.png)
 - Done in **Swift**
 - [Public Repo](https://github.com/19neloyk/ExerciseTracker)
 
 
 ## CheckSplit
 ### Simple App that calculates how much each person pays to split a check, including tip.
-![Image](https://github.com/19neloyk/CheckSplit/blob/master/Screen%20Shot%202020-05-24%20at%2010.08.15%20PM.png)
+![Image](https://raw.githubusercontent.com/19neloyk/CheckSplit/master/Screen%20Shot%202020-05-24%20at%2010.08.15%20PM.png)
 - Done in **Swift**
 - [Public Repo](https://github.com/19neloyk/CheckSplit)
 
 ## Habit Tracker
 ### iPhone app that helps people track their habits. Phone is tracked
-![Image](https://github.com/19neloyk/HabitTracker/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%20SE%20(2nd%20generation)%20-%202020-06-04%20at%2012.31.55.png)
+![Image](https://raw.githubusercontent.com/19neloyk/HabitTracker/master/Simulator%20Screen%20Shot%20-%20iPhone%20SE%20(2nd%20generation)%20-%202020-06-04%20at%2012.31.55.png)
 - Done in **Swift**
 - [Public Repo](https://github.com/19neloyk/HabitTracker)
 
 
 ## Edutainment App
 ### App that helps kids learn their times tables (up to 12)
-![Image](https://github.com/19neloyk/EdutainmentAPp/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%20SE%20(2nd%20generation)%20-%202020-05-30%20at%2010.52.14.png)
+![Image](https://raw.githubusercontent.com/19neloyk/EdutainmentAPp/master/Simulator%20Screen%20Shot%20-%20iPhone%20SE%20(2nd%20generation)%20-%202020-05-30%20at%2010.52.14.png)
 - Done in **Swift**
 - [Public Repo](https://github.com/19neloyk/EdutainmentAPp)
 
 
 ## IOS Data Project
 ### Project to structure data for people in certain groups
-![Image](https://github.com/19neloyk/iOSDataProject/blob/master/Screen%20Shot%202020-06-08%20at%205.25.44%20PM.png)
+![Image](https://raw.githubusercontent.com/19neloyk/iOSDataProject/master/Screen%20Shot%202020-06-08%20at%205.25.44%20PM.png)
 - Done in **Swift**, using **CoreData**
 - [Public Repo](https://github.com/19neloyk/iOSDataProject)
 
