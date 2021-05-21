@@ -1,5 +1,5 @@
 ## I'm Neloy
-### I am a programmer who has written a variety of (relatively) large applications. My independent work has dealt from machine learning in finance to real-time networking. 
+### I'm a programmer who has written a variety of (relatively) large applications that are beyond the scope of my college coursework. My independent work has dealt with machine learning in finance to real-time networking. 
 ### Please take a look at my work down below!
 
 # **Larger Projects**
