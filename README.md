@@ -17,8 +17,8 @@
 - Got into college's competitive business accelerator, and awarded a $10,000 grant
 
 
-## **United Nations Fund Scoring App**
-### Programmed for a United Nations nonprofit that gave out funding. I proposed and wrote a web app that scored applications for funding, so the fund's readers could save time and read high-priority applications first.
+## **United Nations 1% Filtering App**
+### Helped a United Nations nonprofit that gave out funding. I proposed and wrote a web app that scored applications for funding, so the fund's readers could save time and read high-priority applications first.
 - Frontend: HTML/CSS, Backend: **NodeJS**, Database: **MongoDB**
 
 
@@ -32,7 +32,7 @@
 - Social Media Campaign garnered over 1000 followers
 - Currently more than 100 active users
 
-## **Article Based AI Investment **
+## **Article Based AI Investment**
 ### Application that read the titles of Tesla articles, and using a neural network, would make a recommendation to buy, sell, or hold shares of the company using a neural network.
 - Written in **Python**
 - Webscraping with **BeautifulSoup** library
@@ -43,14 +43,59 @@
 
 
 # Smaller Projects 
+
 ## Exercise Tracker
+### Practice application in React that stores the user's workouts including reps, sets, and a description of each workout.
+- Frontend: React, Backend: NodeJS, Database: NeD (stored on a single page)
+
 ## Somnos Sleep
+### Generates a sleep schedule for a given time that transitions from someone's current bedtime to their ideal bedtime.
+![Image]()
+- Done in Swift
+
 ## Distance Conversion
+### App converts between Meters, Kilometers, Yards, Feet, and Miles
+![Image](https://github.com/19neloyk/DistanceConversion/blob/master/Screen%20Shot%202020-05-25%20at%207.08.37%20AM.png)
+- Done in Swift
+- [Public Repo](https://github.com/19neloyk/ExerciseTracker)
+
+
 ## CheckSplit
+### Simple App that calculates how much each person pays to split a check, including tip.
+![Image](https://github.com/19neloyk/CheckSplit/blob/master/Screen%20Shot%202020-05-24%20at%2010.08.15%20PM.png)
+- Done in Swift
+- [Public Repo](https://github.com/19neloyk/CheckSplit)
+
 ## Habit Tracker
+### iPhone app that helps people track their habits. Phone is tracked
+![Image](https://github.com/19neloyk/HabitTracker/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%20SE%20(2nd%20generation)%20-%202020-06-04%20at%2012.31.55.png)
+- Done in Swift
+- [Public Repo](https://github.com/19neloyk/HabitTracker)
+
+
 ## Edutainment
+### App that helps kids learn their times tables (up to 12)
+![Image](https://github.com/19neloyk/EdutainmentAPp/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%20SE%20(2nd%20generation)%20-%202020-05-30%20at%2010.52.14.png)
+- Done in Swift
+- [Public Repo](https://github.com/19neloyk/EdutainmentAPp)
+
+
 ## IOS Data Project
+### App structures data 
+![Image]()
+- Done in Swift
+- [Public Repo]()
+
+
+
 ## NYC Real Estate Neigborhood Valuation Trend Detector
+![Image]()
+###
+- Done in Swift
+- [Public Repo]()
+
+
+
 
 
 ### Markdown
