@@ -1,6 +1,6 @@
 ## I'm Neloy
 ### I am a programmer who has written a variety of (relatively) large applications. My independent work has dealt from machine learning in finance to real-time networking. 
-### Please take a look at my workdown below!
+### Please take a look at my work down below!
 
 # **Larger Projects**
 
@@ -51,48 +51,48 @@
 ## Somnos Sleep
 ### Generates a sleep schedule for a given time that transitions from someone's current bedtime to their ideal bedtime.
 ![Image]()
-- Done in Swift
+- Done in **Swift**
 
 ## Distance Conversion
 ### App converts between Meters, Kilometers, Yards, Feet, and Miles
 ![Image](https://github.com/19neloyk/DistanceConversion/blob/master/Screen%20Shot%202020-05-25%20at%207.08.37%20AM.png)
-- Done in Swift
+- Done in **Swift**
 - [Public Repo](https://github.com/19neloyk/ExerciseTracker)
 
 
 ## CheckSplit
 ### Simple App that calculates how much each person pays to split a check, including tip.
 ![Image](https://github.com/19neloyk/CheckSplit/blob/master/Screen%20Shot%202020-05-24%20at%2010.08.15%20PM.png)
-- Done in Swift
+- Done in **Swift**
 - [Public Repo](https://github.com/19neloyk/CheckSplit)
 
 ## Habit Tracker
 ### iPhone app that helps people track their habits. Phone is tracked
 ![Image](https://github.com/19neloyk/HabitTracker/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%20SE%20(2nd%20generation)%20-%202020-06-04%20at%2012.31.55.png)
-- Done in Swift
+- Done in **Swift**
 - [Public Repo](https://github.com/19neloyk/HabitTracker)
 
 
-## Edutainment
+## Edutainment App
 ### App that helps kids learn their times tables (up to 12)
 ![Image](https://github.com/19neloyk/EdutainmentAPp/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%20SE%20(2nd%20generation)%20-%202020-05-30%20at%2010.52.14.png)
-- Done in Swift
+- Done in **Swift**
 - [Public Repo](https://github.com/19neloyk/EdutainmentAPp)
 
 
 ## IOS Data Project
-### App structures data 
-![Image]()
-- Done in Swift
-- [Public Repo]()
+### Project to structure data for people in certain groups
+![Image](https://github.com/19neloyk/iOSDataProject/blob/master/Screen%20Shot%202020-06-08%20at%205.25.44%20PM.png)
+- Done in **Swift**, using **CoreData**
+- [Public Repo](https://github.com/19neloyk/iOSDataProject)
 
 
 
 ## NYC Real Estate Neigborhood Valuation Trend Detector
-![Image]()
-###
-- Done in Swift
-- [Public Repo]()
+### Visualizes changes in valuation between any two different dates from 2000 to 2020.
+- Written in **Python**
+- Used **Pandas** for **data manipulation**
+- Used **Matplotlib** for **data visualization**
 
 
 
