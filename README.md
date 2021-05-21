@@ -45,12 +45,13 @@
 # Smaller Projects 
 
 ## Exercise Tracker
+![Image](https://github.com/19neloyk/ExerciseTracker/blob/master/Screen%20Shot%202020-05-22%20at%201.57.50%20PM.png)
 ### Practice application in React that stores the user's workouts including reps, sets, and a description of each workout.
 - Frontend: React, Backend: NodeJS, Database: NeD (stored on a single page)
+- [Public Repo](https://github.com/19neloyk/ExerciseTracker)
 
 ## Somnos Sleep
 ### Generates a sleep schedule for a given time that transitions from someone's current bedtime to their ideal bedtime.
-![Image]()
 - Done in **Swift**
 
 ## Distance Conversion
