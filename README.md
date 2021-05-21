@@ -33,7 +33,7 @@
 - Currently more than 100 active users
 
 ## **Article Based AI Investment**
-### Application that read the titles of Tesla articles, and using a neural network, would make a recommendation to buy, sell, or hold shares of the company using a neural network.
+### Application that read the titles of Tesla articles, and using a neural network, would make a recommendation to buy, sell, or hold shares of Tesla using a neural network.
 - Written in **Python**
 - Webscraping with **BeautifulSoup** library
 - Manipulated data with **Pandas** library
