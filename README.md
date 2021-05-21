@@ -17,8 +17,10 @@
 ## - CheckSplit
 ## - Habit Tracker
 ## - Edutainment
-## - IOS Data  Project
-
+## - IOS Data Project
+- Gang
+- Gang
+- YUH
 
 ### Markdown
 
