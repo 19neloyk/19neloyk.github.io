@@ -102,7 +102,7 @@
 
 # **Thank you for checking me out!**
 
-### thank-you.go
+### goodbye.go
 ```markdown
 package Main
 import ("fmt")
