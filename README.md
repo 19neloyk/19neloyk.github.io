@@ -2,8 +2,9 @@
 ### I'm a programmer who has written a variety of (relatively) large applications that are beyond the scope of my college coursework. My independent work has dealt with machine learning in finance to real-time networking. 
 ### Please take a look at my work down below!
 
-# **Larger Projects**
 
+
+# **Larger Projects** (4 currently listed)
 
 ## **TuneDune** 
 ### TuneDune is used to curate songs for group gatherings; individuals connect their Spotify and Apple Music accounts. The app then looks at similarities in everyone's music tasted to choose songs that fit everyone's preferences. This is all done in **real time**. Redesigning summer 2021  with  help from another programmer.
@@ -42,7 +43,7 @@
 
 
 
-# **Smaller Projects** 
+# **Smaller Projects** (8 currently listed)
 
 ## **Exercise Tracker**
 ### Practice application in React that stores the user's workouts including reps, sets, and a description of each workout.
@@ -99,24 +100,15 @@
 
 
 
-### Markdown
+# Thank you for checking me out!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+### thank-you.go
 ```markdown
-Syntax highlighted code block
+package Main
+import ("fmt")
 
-# Header 1
-## Header 2
-### Header 3
+func main(){
+	fmt.Println("Please hire me :)")
+}
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
