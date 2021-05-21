@@ -1,8 +1,24 @@
-## Welcome to GitHub Pages
+## My name is Neloy.
+### I am a software engineer (just not employed yet). I have programmed a variety of (relatively) large applications. My independent work has dealt with many differing fields, from machine learning in finance, to real-time networking. Please take a look down below!
 
-You can use the [editor on GitHub](https://github.com/19neloyk/19neloyk.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# My Larger Projects
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## - TuneDune (won business competition + got into a competitive business accelerator)
+## - Seventh Gear
+## - Article Based Investment 
+## - United Nations 1% Fund App
+
+
+# Smaller Projects
+## - NYC Real Estate Trend Plotter
+## - Exercise Tracker
+## - Somnos Sleep
+## - Distance Conversion
+## - CheckSplit
+## - Habit Tracker
+## - Edutainment
+## - IOS Data  Project
+
 
 ### Markdown
 
@@ -25,9 +41,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-## My name is Neloy, and as cliché as it sounds, I am a creator. 
