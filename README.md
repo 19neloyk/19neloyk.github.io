@@ -7,7 +7,7 @@
 # **Larger Projects** (4 currently listed)
 
 ## **TuneDune** 
-### TuneDune is used to curate songs for group gatherings; individuals connect their Spotify and Apple Music accounts. The app then looks at similarities in everyone's music tasted to choose songs that fit everyone's preferences. This is all done in **real time**. Redesigning summer 2021  with  help from another programmer.
+### TuneDune is used to curate songs for group gatherings; individuals connect their Spotify and Apple Music accounts. The app then looks at similarities in everyone's music tasted to choose songs that fit everyone's preferences. This is all done in **real time**.
 ![Home Screen](https://is4-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/3e/12/e8/3e12e86f-c87b-1451-524b-9d84af17096c/14b9c591-9bbe-4419-a88f-177defd6467e_Simulator_Screen_Shot_-_iPhone_11_Pro_Max_-_2021-03-31_at_22.37.15.png/300x0w.png)
 ![Songs for everyone in party](https://is3-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/5a/1c/74/5a1c7450-c94a-8d9f-81db-83b8b9660793/87448c79-9453-48b3-b532-ae4d1e3bd5b8_Simulator_Screen_Shot_-_iPhone_11_Pro_Max_-_2021-03-31_at_22.37.20.png/300x0w.png)
 
