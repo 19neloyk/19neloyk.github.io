@@ -16,7 +16,7 @@
 - Hosted on AWS EC2
 - Won college-wide business competition with a $2,000 cash prize 
 - Got into college's competitive business accelerator, and awarded a $2,500 grant
-- App link: https://apps.apple.com/us/app/tunedune/id1525288136
+- [App link](https://apps.apple.com/us/app/tunedune/id1525288136)
 
 
 ## **United Nations 1% Filtering App**
@@ -33,7 +33,7 @@
 - Implemented Google Admob advertisements and Firebase Analytics 
 - Social Media Campaign garnered over 1000 followers
 - Currently more than 100 active users
-- App link: https://apps.apple.com/us/app/seventh-gear/id1492736437
+- [App link](https://apps.apple.com/us/app/seventh-gear/id1492736437)
 
 ## **Article Based AI Investment**
 ### Application that read the titles of Tesla articles, and using a neural network, would make a recommendation to buy, sell, or hold shares of Tesla using a neural network.
