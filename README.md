@@ -15,7 +15,7 @@
 - Worked with **Spotify and Apple Music APIs** (had to conform old, outdated API code to a newer framework, SwiftUI)
 - Hosted on AWS EC2
 - Won college-wide business competition with a $2,000 cash prize 
-- Got into college's competitive business accelerator, and awarded a $10,000 grant
+- Got into college's competitive business accelerator, and awarded a $2,500 grant
 - App link: https://apps.apple.com/us/app/tunedune/id1525288136
 
 
